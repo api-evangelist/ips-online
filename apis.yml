@@ -33,7 +33,7 @@ x-category: "Machine Learning"
 x-tier: 3
 x-tier-reason: bulk-registered-from-public-apis
 tags:
-  - Machine-Learning
+  - Machine Learning
   - Public APIs
 tags_raw:
   - Machine Learning
@@ -44,7 +44,7 @@ apis:
     humanURL: https://docs.identity.ps/docs
     baseURL: https://docs.identity.ps/docs
     tags:
-      - Machine-Learning
+      - Machine Learning
     tags_raw:
       - Machine Learning
     properties:
